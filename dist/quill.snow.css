@@ -889,6 +889,7 @@
   color: #565e5f;
   padding: 5px 12px;
   white-space: nowrap;
+  z-index: 500;
 }
 .ql-snow .ql-tooltip::before {
   content: "Visit URL:";
